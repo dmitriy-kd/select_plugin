@@ -1,0 +1,22 @@
+{
+  "name": "select_plugin",
+  "version": "1.0.0",
+  "description": "Plugin Select on Vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html -p 4200 --open",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "select",
+    "plugin"
+  ],
+  "author": "Kim D <Kd@kd.kd>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.32.7"
+  }
+}
